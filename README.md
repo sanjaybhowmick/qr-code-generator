@@ -2,7 +2,8 @@
 
 ### Instructions:
 
-    ** Download the Library: **
+    **Download the Library:**
+    
         Download the library from [phpqrcode GitHub](https://github.com/t0k4rt/phpqrcode).
 
     ** Include the Library: **
