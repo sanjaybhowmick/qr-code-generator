@@ -24,8 +24,8 @@ A web-based tool that generates QR codes for:
 
 ## Live Demos
 
-[View Live Demo for vCard](#) (https://www.blbwd.com/apps/qr/vcard.html)
-[View Live Demo for URL](#) (https://www.blbwd.com/apps/qr/url.html)
+[View Live Demo for vCard](https://www.blbwd.com/apps/qr/vcard.html)
+[View Live Demo for URL](https://www.blbwd.com/apps/qr/url.html)
 
 
 ## Installation
